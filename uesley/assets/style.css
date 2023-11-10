@@ -1,0 +1,21 @@
+.bg-c1{
+    background-color: #30353a;
+}
+.text-c1{
+    color:#fff;
+    text-align: center;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("img.png");
+  
+    /* Set a specific height */
+    min-height: 870px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

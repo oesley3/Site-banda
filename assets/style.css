@@ -19,3 +19,10 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media (max-width: 600px) {
+    .parallax{
+        background-image: url(Imagem_do_WhatsApp_de_2023-11-04_à_s__14.51.16_fc42af7d-removebg-preview.png);
+        background-color: #c0c1c3;
+    }
+}
